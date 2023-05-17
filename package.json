@@ -1,6 +1,6 @@
 {
   "name": "padel-market",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://arthurhuelsen.github.io/Projeto_Raquete_React",
   "type": "module",
